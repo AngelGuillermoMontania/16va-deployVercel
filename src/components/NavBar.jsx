@@ -72,7 +72,7 @@ function NavBar() {
                 color: "inherit",
               }}
             >
-              CalzaTodo
+              CalzaME
             </Typography>
           </Link>
 
